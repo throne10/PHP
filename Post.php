@@ -11,8 +11,6 @@ try {
         echo 'true';
     }
 } catch (Exception$e) {
-
-    
     echo 'false';
 }
 ?>
